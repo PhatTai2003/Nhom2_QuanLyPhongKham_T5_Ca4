@@ -56,12 +56,14 @@ Nhóm 2 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
     <li>Sprint 3: Hoàn thành tổng thể website cùng với phân quyền cho từng bộ phận</li>
 </ul>
 
-<h1 style="text-align: center;">Về phòng khám Takki Health của chúng tôi</h1>
+<h1 style="text-align: center;">Về phòng khám Takki Health của chúng tôi:</h1>
 <ul>
     <li>Nằm trong top 5 phòng khám đạt chuẩn chất lượng trong đợt kiểm tra năm 2023 của Sở Y Tế TP.HCM, Phòng khám TAKI Health với hơn 10 năm kinh nghiệm trong việc chăm sóc, thăm khám sức khỏe và chữa bệnh đã tạo được uy tín, sự tin tưởng đến khách hàng cá nhân, các doanh nghiệp lớn trong và ngoài nước kèm theo câu slogan "Sức khỏe của bạn hạnh phúc của tôi."</li>
     <li>Hệ thống quản lý Phòng Khám của chúng tôi phải đảm bảo cho khách hàng ghé thăm Website dễ dàng tìm hiểu được các dịch vụ cũng như các chính sách của phòng khám. Việc đặt lịch hẹn có thể được thực hiện qua mạng hoặc đặt lịch hẹn trực tiếp. Khách hàng có thể nhận được tự vấn online hoặc tư vấn trực tiếp tại phòng khám.</li>
     <li>Với tiêu chí sức khỏe của khách hàng - niềm vui của chúng tôi. Phòng khám quy tập các bác sĩ bậc nhất từ các bệnh viện lớn cùng với trang thiết bị máy móc hiện đại. Đồng thời lực lượng chăm sóc khách hàng hùng mạnh sẽ tạo cho khách hàng một cảm giác thoải mái nhất khi tìm đền với các dịch vụ của chúng thôi</li>
 </ul> 
+
+<h1>Các giao diện cụ thể của website về phòng khám của chúng tôi</h1>
 
 
 
