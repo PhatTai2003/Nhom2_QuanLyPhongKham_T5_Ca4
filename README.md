@@ -41,7 +41,7 @@ Nhóm 2 chúng em gồm 4 thành viên cùng với đề tài Quản Lý Phòng 
 
 <div style="display: flex;" class="img">
   <div class="image">
-         <img style="justify-content: center;" width="50%" src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t1.15752-9/393971385_710702833819717_9013070668864504945_n.png?_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=y-kxC3Kp_m0AX9Mnf2v&_nc_ht=scontent.fsgn4-1.fna&oh=03_AdSxlxXCZd12m3qxp089x0dwky_jekQFvCcRPSAoY3T5pg&oe=65584DD9" alt="Hình ảnh Đăng Khoa">
+         <img style="justify-content: center;" width="50%" src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/311431707_3349750868682805_4756851335440238813_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3PQ6YYsGj8YAX-Byz8L&_nc_ht=scontent.fsgn8-2.fna&oh=00_AfBX1x3wgVQi27HCeIcY2PP6GkofGlzlElOTCXpMAZfPvA&oe=65367FC6" alt="Hình ảnh Đăng Khoa">
     </div>
     <div class="description">
       <h1>Thành viên 4:</h1>
