@@ -26,7 +26,7 @@ Nhóm 2 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 
 <div style="display: flex;" class="img">
   <div class="image">
-         <img style="justify-content: center;" width="50%" src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t39.30808-6/320242902_713346349976599_500588530406241302_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OJDM813INAsAX_fHzCd&_nc_ht=scontent.fsgn4-1.fna&oh=00_AfClDkaaeY6rINeZo6JVWF6u2b4GeyRZuVdZTkOxy4j4YA&oe=65356196" alt="Hình ảnh Minh Khánh">
+         <img style="justify-content: center;" width="50%" src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t1.15752-9/393971385_710702833819717_9013070668864504945_n.png?_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=y-kxC3Kp_m0AX9Mnf2v&_nc_ht=scontent.fsgn4-1.fna&oh=03_AdSxlxXCZd12m3qxp089x0dwky_jekQFvCcRPSAoY3T5pg&oe=65584DD9" alt="Hình ảnh Minh Khánh">
     </div>
     <div class="description">
       <h1>Thành viên 3:</h1>
