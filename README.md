@@ -1,5 +1,5 @@
 # Nhom2_QuanLyPhongKham_T5_Ca4
-Nhóm 2 chúng em gồm 4 thành viên cùng với đề tài Quản Lý Phòng Khám tư nhân.
+Nhóm 2 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng Khám".
 <div style="display: flex;" class="img">
   <div class="image">
          <img style="justify-content: center;" width="50%" src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t1.15752-9/393916351_647366893913371_7859012810729492026_n.png?_nc_cat=105&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=PswTMc78Mg4AX8Cfopq&_nc_ht=scontent.fsgn4-1.fna&oh=03_AdQbEfcGaOhgbw1-0ocpAqg3OzqxdlEXFaPoBbqGxpp8uQ&oe=6558576E" alt="Hình ảnh Tuấn Anh">
@@ -50,4 +50,12 @@ Nhóm 2 chúng em gồm 4 thành viên cùng với đề tài Quản Lý Phòng 
       <p>Với cá tính trầm tĩnh, ngại giao tiếp với đám đông và trái tim hướng nội. <br>Chàng trai ấy lặng lẽ phía sau những ánh hào quang cùng chiếc laptop và con chuột là bạn. Đồng hành viết code cùng team.</p>
     </div>
 </div>
+
+<h1 style="text-align: center;">Về đề tài "Quản lý Phòng Khám" nhóm chúng em có tất cả là 3 sprint cho xuyên suốt 10 tuần học thực hành</h1>
+<ul>
+    <li>Sprint 1: </li>
+    <li>Sprint 2: </li>
+    <li>Sprint 3: </li>
+</ul>
+
 
